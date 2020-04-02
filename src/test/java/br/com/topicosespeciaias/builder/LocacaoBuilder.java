@@ -6,7 +6,7 @@ import static br.com.topicosespeciais.utils.DataUtils.obterDataComDiferencaDias;
 
 import java.util.Arrays;
 import java.util.Date;
-
+ 
 import br.com.topicosespeciais.entidades.Filme;
 import br.com.topicosespeciais.entidades.Locacao;
 import br.com.topicosespeciais.entidades.Usuario;
